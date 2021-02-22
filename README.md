@@ -9,7 +9,7 @@ A system that takes a picture of a moving object and uploads the picture to an e
   <b>send_sms.py </b> will send a message on my phone saying that there was an object detected and shot, with a link to the webserver to see a picture of the object.<br><br>
 
 <p>Here are some pictures of the system: </p><br>
-<img src="comp164/front1.jpg"><br>
+<img src="comp164/front1.png"><br>
 <img src="comp164/top[1].jpg"><br>
 <img src="comp164/side[1].jpg"><br>
 </html>
