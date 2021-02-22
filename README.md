@@ -11,5 +11,6 @@ A system that takes a picture of a moving object and uploads the picture to an e
 <p>Here are some pictures of the system: </p><br>
 <img src="comp164/front1.png"><br>
 <img src="comp164/top[1].jpg"><br>
-<img src="comp164/side[1].jpg"><br>
+<img src="comp164/side[1].jpg"><br><br><br>
+<p>Here is a YouTube link to see the final product: https://youtu.be/MPkwN5O2cqY <br>The system as whole wroked fine but there were some issues with the gun. The gun uses two DC motors and are very close to each other in the 3D printed gun. The problem with that design is that the magnetic fields of the 2 motors cancel each other which prevented the motors from spinning (and therefore prevented the gun from shooting the aluminium foil projectile) in the video. There will be an update to the design.
 </html>
